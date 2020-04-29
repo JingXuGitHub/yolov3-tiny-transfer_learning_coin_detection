@@ -23,11 +23,11 @@ All dependencies are included in the associated docker images. Docker requiremen
 
 # Coin Dataset
 
-Coin dataset is collected from Baidu, and labelled using LabelImg (https://github.com/tzutalin/labelImg). You can find coin dataset [here](https://drive.google.com/open?id=1bJ8Ffgd8-9ii36mXbQkWxAGwZtFKSU_a). The dataset contains 1051 images for training and 151 image for validation.
+Coin dataset is collected from Baidu, and labelled using LabelImg (https://github.com/tzutalin/labelImg). You can find coin dataset [here](https://drive.google.com/open?id=1se8HdPA7_NQu6s8y5e9E0zYOmEFZfkwU). The dataset contains 1051 images for training and 151 image for validation.
 
 # Training
 
-Download [coin dataset](https://drive.google.com/open?id=1bJ8Ffgd8-9ii36mXbQkWxAGwZtFKSU_a) and put the folder in the same directory with yolov3 folder. When do training, please check `Coin_Detection_Based_on_YOLOv3.ipynb`.
+Download [coin dataset](https://drive.google.com/open?id=1se8HdPA7_NQu6s8y5e9E0zYOmEFZfkwU) and put the folder in the same directory with yolov3 folder. When do training, please check `Coin_Detection_Based_on_YOLOv3.ipynb`.
 
 # Inference
 
